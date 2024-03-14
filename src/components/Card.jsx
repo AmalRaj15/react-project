@@ -7,8 +7,8 @@ function Card({username="no", image}) {
         
         {username}
         <div className="bg-orange-300 text-white p-4">
-      The picture has amazing look
-    </div>
+        The picture has amazing look
+        </div>
     </>
   )
 }
